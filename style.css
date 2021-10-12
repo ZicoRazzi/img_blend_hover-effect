@@ -1,0 +1,84 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #000;
+}
+
+.container {
+  background: url(img/newton_multi.jpg) no-repeat center;
+  background-size: contain;
+  height: 895px;
+  min-width: 1430px;
+}
+.banner-row1,
+.banner-row2 {
+  display: flex;
+}
+.banner1 {
+  width: 248px;
+  height: 383px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 70px;
+  margin-left: 40px;
+}
+.banner2 {
+  width: 295px;
+  height: 383px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 70px;
+  margin-left: 38px;
+}
+.banner3 {
+  width: 298px;
+  height: 383px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 70px;
+  margin-left: 34px;
+}
+.banner4 {
+  width: 406px;
+  height: 383px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 70px;
+  margin-left: 36px;
+}
+.banner:hover {
+  mix-blend-mode: difference;
+}
+.banner5 {
+  width: 255px;
+  height: 344px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 22px;
+  margin-left: 38px;
+}
+.banner6 {
+  width: 430px;
+  height: 284px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 52px;
+  margin-left: 42px;
+}
+.banner7 {
+  width: 322px;
+  height: 342px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 22px;
+  margin-left: 44px;
+}
+.banner8 {
+  width: 228px;
+  height: 345px;
+  mix-blend-mode: color;
+  background: #002b65;
+  margin-top: 22px;
+  margin-left: 38px;
+}
